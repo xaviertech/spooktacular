@@ -4,7 +4,7 @@
 It's that time of year again! Welcome to my 2021 Hacktoberfest Repository.
 
 ## How to participate
-This year we'll be creating monsters. JSON monsters! Fork this repository and make a pull request for each of your monsters.
+This year we'll be creating monsters. JSON monsters! Fork this repository and make a poll request for each of your monsters.
 
 0. Register your GitHub account with the Hacktoberfest event: 
     * *[Hacktoberfest] (https://hacktoberfest.digitalocean.com/)*
